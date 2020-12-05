@@ -12,7 +12,7 @@ the network itselft is quite simple it has
 10 output neurons which uses a softmax as an activation function.
 The loss function is negative log likelyhood and the optimize is Adam.
 If you have looked at the code then u see it only uses weights. Whith Pytorch it's very easy to test the difference and the accuracy was better without them.
-Here is a graph of the cost and the acc.
+Here is a graph of the cost and the acc.<br>
 <img src="https://github.com/4C4F4943/mnist_neural/blob/main/cost:acc_mnist.png"></img>
 #### the accuracy
 For some reason the Adam optimize works wonders and almost always gives me a redicoulesly high training accuracy of 95-100% accuracy.
