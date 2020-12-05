@@ -2,7 +2,7 @@
 
 first get the dataset from this <a href="https://www.kaggle.com/oddrationale/mnist-in-csv?select=mnist_train.csv"> kaggle</a> link.
 
-Here i was trying to make a neural network from scratch for the mnist dataset but i predicted values based on the learning rate...So wanted to try a framework.
+Here i was trying to make a neural network from scratch for the mnist dataset but it predicted values based on the learning rate...So I wanted to try a framework.
 ##### Pytorch the best framework;), this is personal.
 ## the net
 
